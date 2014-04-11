@@ -17,3 +17,6 @@ This is the pinteresting sample application that I made thanks to
 [*One Month Rails*](http://onemonthrails.com)
 
 by [Guillaume Occuly](http://occuly.me)
+
+
+So please recruit me I need and intership !
